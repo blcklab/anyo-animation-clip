@@ -1,0 +1,1 @@
+{"version":3,"file":"loader.d.ts","sourceRoot":"","sources":["../../src/sekai64/loader.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,EAAE,sBAAsB,EAAE,yBAAyB,EAAE,iCAAiC,EAAE,MAAM,YAAY,CAAA;AAEtH,wBAAgB,gCAAgC,CAAC,OAAO,GAAC,iCAAsC;qBAErE,yBAAyB,GAAE,OAAO,CAAC,sBAAsB,CAAC;EAwBnF"}
