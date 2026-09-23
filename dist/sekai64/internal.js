@@ -1,3 +1,4 @@
+import { GltfLoader } from '@blcklab/sekai64/gltf';
 export function object(value) { return value !== null && typeof value === 'object' && !Array.isArray(value) ? value : {}; }
 export function prepareSource(loader, source, format) {
     const real = new URL(source, typeof location === 'undefined' ? 'file:///' : location.href);
